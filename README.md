@@ -5,4 +5,4 @@
   <li>😎</li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yozura)](https://github.com/yozura/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yozura&layout=compact)](https://github.com/yozura/github-readme-stats)
